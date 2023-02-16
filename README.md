@@ -5,4 +5,5 @@
 -SASS
 -BEM
 -Java Script
-Can you view [my portfolio] {https://viacheslav1985.github.io/portfolio/#lessons}
+
+Can you view [my portfolio](https://viacheslav1985.github.io/portfolio/#lessons/)
