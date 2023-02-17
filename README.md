@@ -2,7 +2,7 @@
 - HTML 5
 * CSS 3
 + JQuery
-+ SASS
+- SASS
   BEM
   Java Script
 
