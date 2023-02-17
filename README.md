@@ -3,7 +3,7 @@
 * CSS 3
 + JQuery
 - SASS
-- BEM
-- Java Script
+* BEM
++ Java Script
 
 Can you view [my portfolio](https://viacheslav1985.github.io/portfolio/#lessons/)
